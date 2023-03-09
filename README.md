@@ -27,5 +27,16 @@ Finally, the function updates the text of three HTML elements on the page with t
 The function is attached to a click event listener on a "Calculate" button, so it will only run when the button is clicked.
 ---
 __This helps to calculate your possible profit with just the percentage of the profit__
+
 ![preview image](https://i.imgur.com/GfKlR3i.png)
+
+---
+Use case:
+![usecase](https://user-images.githubusercontent.com/62908937/224173616-635c8233-674c-4c8c-82f1-b64a3f995b3e.png)
+In order to use it, you can enter your positions percentage of winning (the green area:  and percentage of losing, and leverage you are playing on the trading platform and at the bottom you can see possible wins and losses when it reaches certain price ranges.
+
+
+
+_Trading online may seem like a fun and easy way to make money, but it's important to remember that it involves real risks and should be approached with caution. Don't _let the excitement of the moment cloud your judgement - take the time to educate yourself and make informed decisions before investing your hard-earned money._
+_While the code provided below can give you an idea of the potential profit and risk of a trade, it's important to be aware of the limitations of this tool and to take _into account any fees or expenses that may be incurred in real-world trading scenarios. Always make sure to do your due diligence and research before making any_ _investment decisions, and consider consulting with a financial professional if you're unsure about any aspects of trading or investing._
 
