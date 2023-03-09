@@ -1,9 +1,10 @@
-# Futures-Toolkit - Chrome-Extension
+# Futures Toolkit - Chrome-Extension 🛠
 This is a JavaScript function that calculates the potential profit and risk of a trade based on the user input for return on equity (ROE), leverage, and margin.
 
 Here's what each variable represents:
 
 `winroe`: the expected return on equity for a winning trade, entered as a percentage
+
 `riskroe`: the expected return on equity for a losing trade, entered as a percentage
 `leverage`: the amount of leverage used for the trade, entered as a ratio (e.g., 1-125)
 `margin`: the amount of margin used for the trade, entered as a percentage
