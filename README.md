@@ -27,5 +27,5 @@ Finally, the function updates the text of three HTML elements on the page with t
 The function is attached to a click event listener on a "Calculate" button, so it will only run when the button is clicked.
 ---
 __This helps to calculate your possible profit with just the percentage of the profit__
-![alt text]([http://url/to/img.png](https://imgur.com/GfKlR3i))
+![preview image](https://i.imgur.com/GfKlR3i.png)
 
