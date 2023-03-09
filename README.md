@@ -1,5 +1,6 @@
 # Futures Toolkit - Chrome-Extension 🛠
 I wanted to calculate my positions possible profit and loses in a fast way and came up with this idea.
+
 This is a JavaScript function that calculates the potential profit and risk of a trade based on the user input for return on equity (ROE), leverage, and margin.
 
 Here's what each variable represents:
