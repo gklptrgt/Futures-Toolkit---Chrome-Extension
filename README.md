@@ -1,5 +1,5 @@
 # Futures Toolkit - Chrome-Extension 🛠
-I wanted to calculate my positions possible profit and loses in a fast way and came up with this idea.
+I wanted to calculate my positions, possible profit and losses in a fast way and came up with this idea.
 
 This is a JavaScript function that calculates the potential profit and risk of a trade based on the user input for return on equity (ROE), leverage, and margin.
 
@@ -27,7 +27,7 @@ Finally, the function updates the text of three HTML elements on the page with t
 The function is attached to a click event listener on a "Calculate" button, so it will only run when the button is clicked.
 
 ---
-__This helps to calculate your possible profit with just the percentage of the profit__
+__This helps to calculate your possible profit with just the percentage of the position__
 
 ![preview image](https://i.imgur.com/GfKlR3i.png)
 
