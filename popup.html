@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="popup.js"></script>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <h1>Futures Toolkit</h1>
+    <section>
+        <label>Win ROE<input type="number" id="roe1xwin"></label>
+        <label>Risk ROE<input type="number" id="roe1xrisk"></label>
+        <label>Leverage<input type="number" id="leverage"></label>
+        <label>USDT<input type="number" id="margin"></label>
+        <button id="calculate">Calculate</button>
+    </section>
+    <section class="results">
+        <p>Roe (%): <strong><span id="roe"></span></p></strong>
+        <p>PNL (USDT): <strong><span id="pnl"></span></p></strong>
+        <p>Risk (USDT): <strong><span id="risk"></span></p></strong>
+    </section>
+</body>
+</html>

@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(30, 35, 41);
+}
+h1 {
+    color: rgb(240, 185, 11);
+}
+p, label{
+    color: rgb(234, 236, 239);
+}
+p {
+    font-size: 14px;
+    margin: 0;
+}
+/*  */
+input {
+    background-color: rgb(71, 77, 87);
+    color: white;
+    border: 0;
+  }
+
+.results {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#pnl {
+    color: rgb(14, 203, 129);
+}
+#risk {
+    color: rgb(246, 70, 93);
+}
