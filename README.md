@@ -37,7 +37,7 @@ In order to use it, you can enter your positions percentage of winning (the gree
 
 
 
-_Trading online may seem like a fun and easy way to make money, but it's important to remember that it involves real risks and should be approached with caution. Don't _let the excitement of the moment cloud your judgement - take the time to educate yourself and make informed decisions before investing your hard-earned money._
+_Trading online may seem like a fun and easy way to make money, but it's important to remember that it involves real risks and should be approached with caution. Don't let the excitement of the moment cloud your judgement - take the time to educate yourself and make informed decisions before investing your hard-earned money._
 
 
 While the code I provided above can give you an idea of the potential profit and risk of a trade, it's important to be aware of the limitations of this tool and to take into account any fees or expenses that may be incurred in real-world trading scenarios. Always make sure to do your due diligence and research before making any investment decisions, and consider consulting with a financial professional if you're unsure about any aspects of trading or investing.
