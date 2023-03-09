@@ -4,16 +4,15 @@ This is a JavaScript function that calculates the potential profit and risk of a
 
 Here's what each variable represents:
 
-`winroe`: the expected return on equity for a winning trade, entered as a percentage
+ - `winroe`: the expected return on equity for a winning trade, entered as a percentage
 
-`riskroe`: the expected return on equity for a losing trade, entered as a percentage
+ - `riskroe`: the expected return on equity for a losing trade, entered as a percentage
 
-`leverage`: the amount of leverage used for the trade, entered as a ratio (e.g., 1-125)
+ - `leverage`: the amount of leverage used for the trade, entered as a ratio (e.g., 1-125)
 
-`margin`: the amount of margin used for the trade, entered as a percentage.
+ - `margin`: the amount of margin used for the trade, entered as a percentage.
 
 The function then calculates the potential profit and risk of the trade based on these inputs.
-
 
 `pnl`: the potential profit or loss, calculated by multiplying the expected return on equity for a winning trade by the amount of leverage used, and then multiplying that result by the amount of margin used.
 
@@ -25,13 +24,14 @@ sign), and then multiplying that result by the amount of margin used.
 Finally, the function updates the text of three HTML elements on the page with the calculated values using innerText and toFixed() methods.
 
 The function is attached to a click event listener on a "Calculate" button, so it will only run when the button is clicked.
+
 ---
 __This helps to calculate your possible profit with just the percentage of the profit__
 
 ![preview image](https://i.imgur.com/GfKlR3i.png)
 
 ---
-Use case:
+### Use case:
 ![usecase](https://user-images.githubusercontent.com/62908937/224173616-635c8233-674c-4c8c-82f1-b64a3f995b3e.png)
 In order to use it, you can enter your positions percentage of winning (the green area: 6.77%)  and percentage of losing (red area: 2.11%), leverage (the rate you are playing on the trading platform), your margin that you will use and at the bottom you can see possible wins and losses when it reaches certain price ranges.
 
